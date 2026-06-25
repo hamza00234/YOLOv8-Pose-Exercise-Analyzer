@@ -158,22 +158,4 @@ Exercise-specific rules determine:
 * Movement quality
 * Form correctness
 
-## Academic Context
 
-Developed for:
-
-**Introduction to Image Processing and Computer Vision – Spring 2026**
-**Faculty of Informatics and Computer Science**
-**German International University (GIU)**
-
-Project requirements included:
-
-* YOLOv8 pose estimation
-* Temporal smoothing
-* Repetition counting
-* Form assessment
-* JSON output generation
-
-## Authors
-
-Team Project – German International University (GIU)
